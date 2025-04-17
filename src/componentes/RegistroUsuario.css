@@ -1,0 +1,38 @@
+/* RegistroUsuario.css */
+.registro-usuario {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #f9f9f9;
+  }
+  
+  .registro-usuario label {
+    display: block;
+    margin-top: 0.75rem;
+    font-weight: bold;
+  }
+  
+  .registro-usuario input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.25rem;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .registro-usuario button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background: #3E5975;
+    color: white;
+    cursor: pointer;
+  }
+  .registro-usuario button:hover {
+    background: #2e455e;
+  }
+  
